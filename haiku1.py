@@ -4,3 +4,9 @@ def Haiku1():
     print("From time to time")
     print("The clouds give rest")
     print("To the moon-beholders.")
+
+def HaikuX():
+    print("haiku by:"," Matsuo Bashō")
+    print("From time to time")
+    print("The clouds give rest")
+    print("To the moon-beholders.")
